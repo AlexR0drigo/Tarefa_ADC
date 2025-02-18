@@ -20,8 +20,8 @@
 #define I2C_SCL 15
 #define ENDERECO 0x3C
 
-#define DEADZONE_X 50
-#define DEADZONE_Y 50
+#define DEADZONE_X 100
+#define DEADZONE_Y 100
 #define AMOSTRAS_DE_CALIBRACAO 100
 
 ssd1306_t ssd;
